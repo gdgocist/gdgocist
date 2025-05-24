@@ -40,9 +40,9 @@ Check out our:
 ## 📢 Connect with Us
 
 Follow us & stay updated:
-- 🔗 [LinkedIn Page]()
-- 🌐 [Website](https://your-gdgoc-site.github.io) *(if available)*
-- 🧑‍💻 GitHub: [github.com/gdgoc-ist](https://github.com/gdgoc-ist)
+- 🔗 [LinkedIn Page](https://www.linkedin.com/company/gdgoc-ist)
+- 🌐 [Website](https://gdg.community.dev/gdg-on-campus-institute-of-space-technology-islamabad-pakistan/)
+- 🧑‍💻 GitHub: [github.com/gdgoc-ist](https://github.com/gdgocist)
 
 ---
 
