@@ -57,4 +57,6 @@ We believe in respectful collaboration. By participating here, you agree to foll
 
 ---
 
-Let’s build something great, together. 💙  
+Let’s build something great, together. 💙 
+
+🔴🟡🟢🔵 
