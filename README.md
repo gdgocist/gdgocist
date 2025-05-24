@@ -53,7 +53,7 @@ Meet the awesome folks behind GDGoC IST in [`team.md`](./team.md)
 
 ## 🤝 Code of Conduct
 
-We believe in respectful collaboration. By participating here, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md)
+We believe in respectful collaboration. By participating here, you agree to follow our [Code of Conduct]([./CODE_OF_CONDUCT.md](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct))
 
 ---
 
